@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Fahmida Afrin Nadia</h1>
-<h3 align="center">Aspiring Website Designer, skilled in HTML, CSS, and basic UI design.</h3>
+<h3 align="center">Aspiring Website Designer passionate about creating clean, responsive, and user-friendly websites.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida47&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida47" /> </p>
 
