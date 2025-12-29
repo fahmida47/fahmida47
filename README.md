@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
-- 👨‍💻 All of my projects are available at [fahmida47](fahmida47)
-
 - 📫 How to reach me **fahmida.200547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
