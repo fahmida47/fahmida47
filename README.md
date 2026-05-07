@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fahmida.200547@gmail.com**
 
-- Portfolio website **https://sites.google.com/view/fahmidaafrinnadia/experience**
+- Portfolio website **https://sites.google.com/view/fahmidaafrinnadia/home**
 
 <h3 align="left">Connect with me:</h3>
 
