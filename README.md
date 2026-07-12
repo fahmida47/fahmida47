@@ -1,15 +1,17 @@
 <h1 align="center">Hey, I'm Fahmida Afrin Nadia</h1>
-<h3 align="center">Aspiring Website Designer passionate about creating clean, responsive, and user-friendly websites.</h3>
+<h3 align="center">
+CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida47&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida47" /> </p>
 
-- 🔭 I’m currently working on **Agranika(অগ্রনীকা) website**
+- 🔭 I’m currently working on **multiple web development and open-source projects**
 
-- 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
+- 🌱 I’m currently learning **HTML,CSS,Javascript**
 
 - 📫 How to reach me **fahmida.200547@gmail.com**
 
-- Portfolio website **https://sites.google.com/view/fahmidaafrinnadia/home**
+- 🌐 Portfolio: [Visit My Portfolio](https://sites.google.com/view/fahmidaafrinnadia/home)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -35,6 +37,22 @@
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
    </a>
 </div>
+
+<h3 align="left">🚀 Featured Projects & Contributions:</h3>
+
+- 🌐 **Agranika Website**
+  - A responsive website project focused on clean UI design and user-friendly experience.
+
+- 🎨 **EaseMotion CSS Contribution**
+  - Contributed an animated home navigation button component to an open-source CSS framework.  
+  - Successfully merged into the main repository.
+
+- 🖼️ **Pocket Pixel Open Source Contribution**
+  - Contributed to an open-source image editing project by improving UI functionality and fixing issues.
+  - Successfully merged through a GitHub Pull Request.
+
+- 🐱 **The Meow Escape**
+  - A 2D arcade game developed using C with iGraphics, featuring multiple levels and interactive gameplay.
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
@@ -65,5 +83,15 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<h3 align="left">📊 GitHub Stats:</h3>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmida47&theme=tokyonight" />
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
