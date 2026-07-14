@@ -87,11 +87,6 @@ CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahmida47&theme=tokyonight" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmida47&theme=tokyo-night"/>
 
 </div>
