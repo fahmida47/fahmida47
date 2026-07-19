@@ -5,15 +5,15 @@ CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahmida47&label=Profile%20views&color=0e75b6&style=flat" alt="fahmida47" /> </p>
 
-- 🔭 I’m currently working on **multiple web development and open-source projects**
+🔭 I’m currently working on **multiple web development and open-source projects**
 
 🌱 Currently learning React.js and improving my frontend development skills.
 
 💡 Exploring modern UI design and responsive web development.
 
-- 📫 How to reach me **fahmida.200547@gmail.com**
+📫 How to reach me **fahmida.200547@gmail.com**
 
-- 🌐 Portfolio: [Visit My Portfolio](https://sites.google.com/view/fahmidaafrinnadia/home)
+🌐 Portfolio: [Visit My Portfolio](https://sites.google.com/view/fahmidaafrinnadia/home)
 
 <h3 align="left">Connect with me:</h3>
 
@@ -25,10 +25,6 @@ CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 
  <a href="https://www.instagram.com/_fahmida_afrin_nadia_">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
- </a>
-
- <a href="https://t.me/fahmida_47">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
  </a>
 
  <a href="https://wa.me/8801885513636">
