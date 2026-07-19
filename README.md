@@ -41,6 +41,17 @@ CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 - 🌐 **Agranika Website**
   - A responsive website project focused on clean UI design and user-friendly experience.
 
+- 🎨 **EaseMotion CSS – Aurora Theme Crossfade**
+
+Contributed a CSS-only Dark/Light Theme Crossfade demo featuring:
+
+- Smooth theme token transitions
+- Glassmorphism UI
+- Responsive layout
+- Accessibility support (`prefers-reduced-motion`)
+
+✅ Successfully merged into the EaseMotion CSS repository.
+
 - 🎨 **EaseMotion CSS Contribution**
   - Contributed an animated home navigation button component to an open-source CSS framework.  
   - Successfully merged into the main repository.
