@@ -7,7 +7,9 @@ CSE Student | Frontend Developer | UI/UX Enthusiast | Open Source Contributor
 
 - 🔭 I’m currently working on **multiple web development and open-source projects**
 
-- 🌱 I’m currently learning **HTML,CSS,Javascript**
+🌱 Currently learning React.js and improving my frontend development skills.
+
+💡 Exploring modern UI design and responsive web development.
 
 - 📫 How to reach me **fahmida.200547@gmail.com**
 
