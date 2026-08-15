@@ -2,9 +2,9 @@
 
 # `>_` Hey, I'm Fahmida Afrin Nadia
 
-### CSE Student • Frontend Developer Learner • UI/UX Enthusiast • Open Source Contributor
+### CSE Student • Aspiring Frontend Developer • UI/UX Enthusiast • Open Source Contributor
 
-<img src="https://komarev.com/ghpvc/?username=fahmida47&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=fahmida47&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 fahmida47@github:~$ whoami
 
 > CSE Student
-> Frontend Developer
+> Aspiring Frontend Developer
 > UI/UX Enthusiast
 > Open Source Contributor
 
@@ -25,6 +25,7 @@ fahmida47@github:~$ current_focus
 > JavaScript
 > React.js
 > Responsive Web Development
+> UI/UX
 > Open Source Contribution
 
 fahmida47@github:~$ status
@@ -36,14 +37,14 @@ fahmida47@github:~$ status
 
 ## `02` — ABOUT ME
 
-I'm a Computer Science & Engineering student passionate about building
-modern, responsive and user-friendly web experiences.
+I'm a Computer Science & Engineering student passionate about building modern, responsive and user-friendly web experiences.
 
 * 💻 Focused on **Frontend Development**
 * 🎨 Interested in **UI/UX & modern interface design**
 * 🌱 Currently improving my **JavaScript & React.js** skills
 * 🚀 Building real-world academic and personal projects
 * 🌍 Exploring **Open Source Development**
+* 🔧 Learning to build clean, responsive and accessible interfaces
 * 🎯 Preparing myself for a professional software development career
 
 ---
@@ -52,9 +53,9 @@ modern, responsive and user-friendly web experiences.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 ```text
 HTML
@@ -66,7 +67,7 @@ Vite
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🚀 Exploring
 
@@ -75,6 +76,7 @@ Modern UI
 Responsive Design
 Open Source
 Git & GitHub
+Component-based Development
 ```
 
 </td>
@@ -83,60 +85,81 @@ Git & GitHub
 
 ---
 
-## `04` — TECH STACK
+## `04` — 🛠️ TECH STACK
+
+### 💻 Languages
 
 <div align="center">
 
-### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" alt="C"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" alt="C++"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" alt="Java"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+</div>
 
-### Frameworks & Development
+### ⚛️ Frameworks & Development
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="45"/>
+<div align="center">
 
-### Tools & Design
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" alt="React"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="45" alt="Flutter"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="45" alt="Firebase"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45"/>
+</div>
+
+### 🧰 Tools & Design
+
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="VS Code"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" alt="Figma"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" alt="Canva"/>
 
 </div>
 
 ---
 
-## `05` — GITHUB ACTIVITY
+
+
+## `05` — 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmida47&theme=tokyo-night&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahmida47&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
 ---
 
-## `06` — 🚀 SELECTED PROJECTS
+## `06` — 🚀 MY PROJECTS
 
 <table>
 <tr>
-
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌍 TripMesh
 
+https://github.com/fahmida47/TripMesh
+
 **Tourist-as-a-Service Marketplace**
 
-A modern tourism marketplace designed to connect tourists with local guides and travel experiences.
+A tourism marketplace designed to connect tourists with local guides and travel experiences.
 
 **Tech Stack**
 
@@ -144,8 +167,25 @@ A modern tourism marketplace designed to connect tourists with local guides and 
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
+### 🎓 Agranika
+
+https://github.com/fahmida47/Agranika
+
+**Education Platform**
+
+A web project focused on creating an accessible and user-friendly educational experience.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 📚 TutorSphere
 
@@ -159,20 +199,21 @@ A database-focused system for finding and managing tutors and learners.
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Agranika
+### 🐱 The Meow Escape
 
-**Education Platform**
+https://github.com/fahmida47/The-Meow-Escape
 
-A web project focused on providing an accessible and user-friendly educational experience.
+**2D Arcade Game**
+
+A 2D arcade game developed using C and iGraphics, featuring multiple levels and interactive gameplay.
 
 **Tech Stack**
 
-`HTML` `CSS` `JavaScript`
+`C` `iGraphics`
 
 </td>
-
 </tr>
 </table>
 
@@ -180,9 +221,9 @@ A web project focused on providing an accessible and user-friendly educational e
 
 ## `07` — 🌱 OPEN SOURCE CONTRIBUTIONS
 
-### 🎨 EaseMotion CSS
+### 🎨 EaseMotion CSS — Aurora Theme Crossfade
 
-**Aurora Theme Crossfade**
+https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/51979
 
 Contributed a CSS-only dark/light theme crossfade demonstration featuring:
 
@@ -195,9 +236,9 @@ Contributed a CSS-only dark/light theme crossfade demonstration featuring:
 
 ---
 
-### 🎨 EaseMotion CSS
+### 🎨 EaseMotion CSS — Animated Navigation Button
 
-**Animated Navigation Button**
+https://github.com/SAPTARSHI-coder/EaseMotion-css/pull/43991
 
 Contributed an animated home navigation button component to an open-source CSS framework.
 
@@ -207,19 +248,21 @@ Contributed an animated home navigation button component to an open-source CSS f
 
 ### 🖼️ Pocket Pixel
 
+https://github.com/ali-ahnaf/pocket_pixel/pull/190
+
 Contributed to an open-source image editing project by improving UI functionality and fixing issues.
 
 ✅ Successfully merged through a GitHub Pull Request.
 
 ---
 
-## `08` — 📊 GITHUB STATS
+## `08` — 📈 GITHUB STATS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahmida47&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fahmida47&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </div>
 
@@ -229,7 +272,7 @@ Contributed to an open-source image editing project by improving UI functionalit
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 
 </div>
 
@@ -240,41 +283,49 @@ Contributed to an open-source image editing project by improving UI functionalit
 <div align="center">
 
 <a href="https://sites.google.com/view/fahmidaafrinnadia/home">
-<img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge"/>
+<img src="https://api.iconify.design/mdi/web.svg?color=%230e75b6" width="38" alt="Portfolio"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.facebook.com/fahmida4747">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://api.iconify.design/mdi/linkedin.svg?color=%230A66C2" width="38" alt="LinkedIn"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/_fahmida_afrin_nadia_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/fahmida47">
+<img src="https://api.iconify.design/mdi/github.svg?color=%23181717" width="38" alt="GitHub"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.youtube.com/@FahmidaAfrinNadia">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://api.iconify.design/mdi/youtube.svg?color=%23FF0000" width="38" alt="YouTube"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:fahmida.200547@gmail.com">
+<img src="https://api.iconify.design/mdi/email.svg?color=%23EA4335" width="38" alt="Email"/>
 </a>
 
+<br><br>
+
+<sub>
+🌐 Portfolio &nbsp; • &nbsp; 💼 LinkedIn &nbsp; • &nbsp; 🐙 GitHub &nbsp; • &nbsp; ▶️ YouTube &nbsp; • &nbsp; ✉️ Email
+</sub>
+
+<br><br>
+
+<sub><i>Let's connect, collaborate and build something meaningful.</i></sub>
+
 </div>
-
-<p align="center">
-
-📫 **[fahmida.200547@gmail.com](mailto:fahmida.200547@gmail.com)**
-
-</p>
 
 ---
 
 <div align="center">
 
-```text
-──────────────────────────────────────────────
+<br>
 
-        LEARN  •  BUILD  •  CONTRIBUTE
+### ✨ Thanks for visiting my profile!
 
-──────────────────────────────────────────────
-```
-
-### `fahmida47@github:~$ exit`
+<sub>Always learning • Always building • Always growing</sub>
 
 </div>
