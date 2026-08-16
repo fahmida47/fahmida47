@@ -1,10 +1,10 @@
 <div align="center">
 
-# `>_` Hey, I'm Fahmida Afrin Nadia
+<img src="./github-header.png" width="100%" alt="Fahmida Afrin Nadia"/>
 
-### CSE Student • Aspiring Frontend Developer • UI/UX Enthusiast • Open Source Contributor
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=fahmida47&label=PROFILE%20VIEWS&color=0e75b6&style=flat" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=fahmida47&label=PROFILE%20VIEWS&color=00e5ff&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -263,6 +263,10 @@ Contributed to an open-source image editing project by improving UI functionalit
 <img src="https://github-stats-extended.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fahmida47&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=fahmida47&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
 
 </div>
 
