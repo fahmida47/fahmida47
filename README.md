@@ -256,23 +256,7 @@ Contributed to an open-source image editing project by improving UI functionalit
 
 ---
 
-## `08` — 📈 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=fahmida47&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=fahmida47&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=fahmida47&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## `09` — ✍️ DEVELOPER QUOTE
+## `08` — ✍️ DEVELOPER QUOTE
 
 <div align="center">
 
@@ -282,7 +266,7 @@ Contributed to an open-source image editing project by improving UI functionalit
 
 ---
 
-## `10` — 🌐 CONNECT WITH ME
+## `09` — 🌐 CONNECT WITH ME
 
 <div align="center">
 
