@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/fahmida47/fahmida47/main/github-header.png" width="100%" alt="Fahmida Afrin Nadia"/>
+<img src="./github-header1.png" width="100%" alt="Fahmida Afrin Nadia"/>
 
 <br><br>
 
