@@ -1,12 +1,14 @@
+```html
 <div align="center">
 
-<img src="./github-header.png" width="100%" alt="Fahmida Afrin Nadia"/>
+<img src="https://raw.githubusercontent.com/fahmida47/fahmida47/main/github-header.png" width="100%" alt="Fahmida Afrin Nadia"/>
 
-<br>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=fahmida47&label=PROFILE%20VIEWS&color=00e5ff&style=flat" alt="Profile Views"/>
 
 </div>
+```
 
 ---
 
